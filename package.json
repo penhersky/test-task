@@ -1,0 +1,19 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "lodash": "4.17.15"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.150",
+    "@types/jest": "^25.2.1",
+    "jest": "^25.2.7",
+    "ts-node": "^8.8.2",
+    "typescript": "^3.8.3"
+  }
+}
